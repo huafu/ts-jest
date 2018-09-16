@@ -1,15 +1,7 @@
 {
   "groups": {
     "default": {
-      "packages": [
-        "e2e/__templates__/default/package.json",
-        "e2e/__templates__/with-babel-6/package.json",
-        "e2e/__templates__/with-babel-7/package.json",
-        "e2e/__templates__/with-jest-22/package.json",
-        "e2e/__templates__/with-typescript-2-7/package.json",
-        "e2e/__templates__/with-unsupported-version/package.json",
-        "package.json"
-      ]
+      "packages": []
     }
   }
 }
