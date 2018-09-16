@@ -77,7 +77,7 @@
     "@types/buffer-from": "*",
     "@types/cross-spawn": "*",
     "@types/fs-extra": "*",
-    "@types/jest": "23.x",
+    "@types/jest": "23.3.2",
     "@types/js-yaml": "*",
     "@types/json5": "*",
     "@types/lodash.memoize": "4.x",
@@ -93,7 +93,7 @@
     "fs-extra": "*",
     "glob-gitignore": "*",
     "husky": "*",
-    "jest": "23.x",
+    "jest": "23.6.0",
     "js-yaml": "*",
     "lint-staged": "*",
     "lodash.memoize": "4.x",
@@ -105,7 +105,7 @@
     "tslint": "*",
     "tslint-config-prettier": "*",
     "tslint-plugin-prettier": "*",
-    "typescript": "3.x"
+    "typescript": "3.0.3"
   },
   "lint-staged": {
     "linters": {
